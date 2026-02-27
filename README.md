@@ -44,3 +44,6 @@ This project is licensed under the MIT License.
 
 ## Author
 - koneke55 (20btrmt034@jainuniversity.ac.in)
+
+## Updates
+- Update 2/5: pushed notebook change
