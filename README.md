@@ -49,3 +49,4 @@ This project is licensed under the MIT License.
 - Update 2/5: pushed notebook change
 - Update 3/5: pushed README change
 - Update 4/5: minor README tweak
+- Update 5/5: final README note
