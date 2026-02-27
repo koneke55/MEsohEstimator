@@ -48,3 +48,4 @@ This project is licensed under the MIT License.
 ## Updates
 - Update 2/5: pushed notebook change
 - Update 3/5: pushed README change
+- Update 4/5: minor README tweak
